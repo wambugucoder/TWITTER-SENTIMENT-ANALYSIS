@@ -1,0 +1,2 @@
+# TWITTER-SENTIMENT-ANALYSIS
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/18bb89ed80964d0fa2c87e08830e390f)](https://app.codacy.com/manual/josphatwambugu77/TWITTER-SENTIMENT-ANALYSIS?utm_source=github.com&utm_medium=referral&utm_content=wambugucoder/TWITTER-SENTIMENT-ANALYSIS&utm_campaign=Badge_Grade_Dashboard)
